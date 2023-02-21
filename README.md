@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repo de prueba
+ESto es una prueba de como crear un repositorio y subirlo a nuestra computadora 
